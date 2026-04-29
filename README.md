@@ -19,7 +19,6 @@
 ![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Compiler](https://img.shields.io/badge/Compiler-GCC%20%2F%20MinGW-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![Build](https://img.shields.io/badge/Build-Makefile-6D4C41?style=for-the-badge&logo=cmake&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Phase](https://img.shields.io/badge/Phase-2-blueviolet?style=for-the-badge)
 
