@@ -1,0 +1,21 @@
+HELLOWORLD
+Program Terminated Successfully
+
+
+DIFF
+Program Terminated Successfully
+
+
+ERROR: Time Limit Exceeded
+
+
+ERROR: Out of Data
+
+
+
+ERROR: Line Limit Exceeded
+
+
+ERROR: Invalid Page Fault
+
+
